@@ -1,0 +1,12 @@
+correalation value varies from -1 to 1 
+
+1 means that the datasheets are closely and postively correalated-rising graph 
+
+-1 means that the dtatasheets are closely but inversely correalated- falling graph 
+
+0 or near to 0 datasheets are not correalated, so the dat points will be scattered on the graph
+
+correalation is important to predict the future data based in the previously collected data
+
+e.g. stock market
+
